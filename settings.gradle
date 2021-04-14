@@ -1,2 +1,3 @@
+include ':p0261_intentfilter'
 include ':app'
 rootProject.name = "AndroidLesson4"
