@@ -11,6 +11,9 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/p0261_intentfilter" />
+            <option value="$PROJECT_DIR$/p0271_getintentaction" />
+            <option value="$PROJECT_DIR$/p0281_intentextras" />
+            <option value="$PROJECT_DIR$/p0291_simpleactivityresult" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -1,3 +1,6 @@
+include ':p0291_simpleactivityresult'
+include ':p0281_intentextras'
+include ':p0271_getintentaction'
 include ':p0261_intentfilter'
 include ':app'
 rootProject.name = "AndroidLesson4"
